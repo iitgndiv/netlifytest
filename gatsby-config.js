@@ -3,6 +3,7 @@ module.exports = {
     title: 'Gatsby Default Starter',
     desc:'This is my first blog',
   },
+ 
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-styled-Components',
@@ -25,3 +26,5 @@ module.exports = {
     'gatsby-plugin-sharp',
   ],
 }
+
+// pathPrefix: "/mygatsbysite",
